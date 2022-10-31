@@ -4,4 +4,4 @@ Capstone Project JAubry - October 2022
 
 EPFL COS Applied Data Science: Machine Learning program 
 
-Read the file 01.Proposal-jeromeaubry.ipynb for descrption of the project
+Read the file 01.Proposal-jeromeaubry.ipynb for description of the project
