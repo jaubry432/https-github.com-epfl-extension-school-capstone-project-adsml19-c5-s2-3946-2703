@@ -1,0 +1,3 @@
+Model,param_knn__p,param_knn__weights,param_knn__n_neighbors,mean_train_r2,std_train_r2,mean_validation_r2,std_validation_r2,mean_test_r2,mean_train_MSE,std_train_MSE,mean_validation_MSE,std_validation_MSE,mean_test_MSE
+knn,1,uniform,81,0.0454,0.0042,0.0219,0.0061,0.0314,0.0037,0.0003,0.0038,0.0006,0.0064
+knn,2,uniform,81,0.0469,0.0039,0.0226,0.0059,0.0314,0.0037,0.0003,0.0038,0.0006,0.0064

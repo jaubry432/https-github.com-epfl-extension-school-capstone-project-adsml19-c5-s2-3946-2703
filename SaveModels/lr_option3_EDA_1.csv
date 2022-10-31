@@ -1,0 +1,2 @@
+Model,mean_train_r2,mean_test_r2,mean_test_MSE
+lr,0.0109,0.0073,0.0066
